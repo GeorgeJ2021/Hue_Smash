@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Unity project\\Hue Smash\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-es\\values-es.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\3fceaeaa6fd33b291315419086ca5dad\\transformed\\androidx.core.core-1.6.0\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "44",
+                        "startColumns": "4",
+                        "startOffsets": "4347",
+                        "endColumns": "100",
+                        "endOffsets": "4443"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\1892b81381470a98b6b69992b2df2ef2\\transformed\\androidx.browser.browser-1.4.0\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,162,263,378",
+                        "endColumns": "106,100,114,104",
+                        "endOffsets": "157,258,373,478"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2392,2499,2600,2715",
+                        "endColumns": "106,100,114,104",
+                        "endOffsets": "2494,2595,2710,2815"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\47ce9f33f4743da585d2056fca746967\\transformed\\com.google.android.gms.play-services-base-18.0.0\\res\\values-es\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,297,456,583,687,844,973,1091,1197,1385,1490,1651,1779,1940,2093,2156,2221",
+                        "endColumns": "103,158,126,103,156,128,117,105,187,104,160,127,160,152,62,64,80",
+                        "endOffsets": "296,455,582,686,843,972,1090,1196,1384,1489,1650,1778,1939,2092,2155,2220,2301"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,326,457,565,726,859,981,1251,1443,1552,1717,1849,2014,2171,2238,2307",
+                        "endColumns": "107,162,130,107,160,132,121,109,191,108,164,131,164,156,66,68,84",
+                        "endOffsets": "158,321,452,560,721,854,976,1086,1438,1547,1712,1844,2009,2166,2233,2302,2387"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\b38d206231690b9fd5bdd2ab38fe7cd3\\transformed\\com.google.android.gms.play-services-basement-18.0.0\\res\\values-es\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "155",
+                        "endOffsets": "350"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1091",
+                        "endColumns": "159",
+                        "endOffsets": "1246"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\7a69600a47d43dfabd6a73ff807d4768\\transformed\\com.google.android.gms.play-services-ads-22.3.0\\res\\values-es\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "199,242,289,362,428,497,605,682,784,839,970,1029,1159,1255,1297,1394,1429,1465,1519,1601,1646",
+                        "endColumns": "42,46,72,65,68,107,76,101,54,130,58,129,95,41,96,34,35,53,81,44,55",
+                        "endOffsets": "241,288,361,427,496,604,681,783,838,969,1028,1158,1254,1296,1393,1428,1464,1518,1600,1645,1701"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,45",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2820,2867,2918,2995,3065,3138,3250,3331,3437,3496,3631,3694,3828,3928,3974,4075,4114,4154,4212,4298,4448",
+                        "endColumns": "46,50,76,69,72,111,80,105,58,134,62,133,99,45,100,38,39,57,85,48,59",
+                        "endOffsets": "2862,2913,2990,3060,3133,3245,3326,3432,3491,3626,3689,3823,3923,3969,4070,4109,4149,4207,4293,4342,4503"
+                    }
+                }
+            ]
+        }
+    ]
+}

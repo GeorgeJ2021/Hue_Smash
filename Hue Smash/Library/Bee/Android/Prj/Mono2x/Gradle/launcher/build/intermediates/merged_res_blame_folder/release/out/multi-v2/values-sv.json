@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Unity project\\Hue Smash\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sv\\values-sv.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\3fceaeaa6fd33b291315419086ca5dad\\transformed\\androidx.core.core-1.6.0\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "44",
+                        "startColumns": "4",
+                        "startOffsets": "4080",
+                        "endColumns": "100",
+                        "endOffsets": "4176"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\47ce9f33f4743da585d2056fca746967\\transformed\\com.google.android.gms.play-services-base-18.0.0\\res\\values-sv\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,296,449,572,678,815,936,1055,1155,1299,1403,1561,1685,1835,1987,2049,2108",
+                        "endColumns": "102,152,122,105,136,120,118,99,143,103,157,123,149,151,61,58,74",
+                        "endOffsets": "295,448,571,677,814,935,1054,1154,1298,1402,1560,1684,1834,1986,2048,2107,2182"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,319,446,556,697,822,945,1197,1345,1453,1615,1743,1897,2053,2119,2182",
+                        "endColumns": "106,156,126,109,140,124,122,103,147,107,161,127,153,155,65,62,78",
+                        "endOffsets": "157,314,441,551,692,817,940,1044,1340,1448,1610,1738,1892,2048,2114,2177,2256"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\7a69600a47d43dfabd6a73ff807d4768\\transformed\\com.google.android.gms.play-services-ads-22.3.0\\res\\values-sv\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "199,244,291,346,410,479,581,660,757,807,913,969,1080,1163,1201,1284,1319,1359,1409,1489,1527",
+                        "endColumns": "44,46,54,63,68,101,78,96,49,105,55,110,82,37,82,34,39,49,79,37,55",
+                        "endOffsets": "243,290,345,409,478,580,659,756,806,912,968,1079,1162,1200,1283,1318,1358,1408,1488,1526,1582"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,45",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2672,2721,2772,2831,2899,2972,3078,3161,3262,3316,3426,3486,3601,3688,3730,3817,3856,3900,3954,4038,4181",
+                        "endColumns": "48,50,58,67,72,105,82,100,53,109,59,114,86,41,86,38,43,53,83,41,59",
+                        "endOffsets": "2716,2767,2826,2894,2967,3073,3156,3257,3311,3421,3481,3596,3683,3725,3812,3851,3895,3949,4033,4075,4236"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\1892b81381470a98b6b69992b2df2ef2\\transformed\\androidx.browser.browser-1.4.0\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,155,255,368",
+                        "endColumns": "99,99,112,97",
+                        "endOffsets": "150,250,363,461"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2261,2361,2461,2574",
+                        "endColumns": "99,99,112,97",
+                        "endOffsets": "2356,2456,2569,2667"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\b38d206231690b9fd5bdd2ab38fe7cd3\\transformed\\com.google.android.gms.play-services-basement-18.0.0\\res\\values-sv\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "143",
+                        "endOffsets": "338"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1049",
+                        "endColumns": "147",
+                        "endOffsets": "1192"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,698 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-68:12
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.1:] C:\Users\Asus\.gradle\caches\transforms-3\02a4756198d7e3dd02df66539b73aa7f\transformed\com.google.android.gms.play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\c4173130f95781b51f934d6deba78646\transformed\androidx.lifecycle.lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] C:\Users\Asus\.gradle\caches\transforms-3\d4bebd9aa71640e0c507d10c5c242109\transformed\androidx.versionedparcelable.versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\1a1b31046a5b849bc9d97952fb73c469\transformed\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\ecb34956e8a0e7004d3b49d2f0ee7269\transformed\androidx.fragment.fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b50b0539995c0493db3e244c2b46883e\transformed\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-service-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\20d49b9cdc2d0288da46aa8c416007b3\transformed\androidx.lifecycle.lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:17:1-72:12
+MERGED from [:com.google.android.gms.play-services-ads-base-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\d832f0f3923b1bb5984746307f16d23a\transformed\com.google.android.gms.play-services-ads-base-22.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\c156797fd539de38c34d80dc52651962\transformed\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-appset-16.0.1:] C:\Users\Asus\.gradle\caches\transforms-3\2fe21e5b14992f47cbfd2b2e200cea24\transformed\com.google.android.gms.play-services-appset-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\52e6ecf2a6cc4dcc6215f49277b1a175\transformed\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\2d52abcb00febcbea3320721f30136d8\transformed\androidx.arch.core.core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.browser.browser-1.4.0:] C:\Users\Asus\.gradle\caches\transforms-3\1892b81381470a98b6b69992b2df2ef2\transformed\androidx.browser.browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.tracing.tracing-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\ec80ec70e69005ca764be62648b341bd\transformed\androidx.tracing.tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\5ad5b000b0a1195f11fc08b6f9479d5b\transformed\androidx.loader.loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\4a9a823681c1b055e0a89bfe9ef4702b\transformed\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.annotation.annotation-experimental-1.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\bfbefb7139a37168f4883e18d2230389\transformed\androidx.annotation.annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\e9344c4b9ac30a31b49a43865097aea4\transformed\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\cc88c5bb393326f9640e49cde21086e1\transformed\androidx.customview.customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\7d0f02d9b471414e121c686f2467c3d0\transformed\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\7f05f53597f3af9df8f5afcf6631ee35\transformed\androidx.lifecycle.lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\850a7a0cbd1d64015ab09966dca93a3b\transformed\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:com.google.android.gms.play-services-ads-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\7a69600a47d43dfabd6a73ff807d4768\transformed\com.google.android.gms.play-services-ads-22.3.0\AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:17:1-46:12
+MERGED from [:googlemobileads-unity:] C:\Users\Asus\.gradle\caches\transforms-3\a50178cda22edc487eaaa1b43e3a0429\transformed\googlemobileads-unity\AndroidManifest.xml:7:1-14:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:17:1-28:12
+MERGED from [:androidx.core.core-1.6.0:] C:\Users\Asus\.gradle\caches\transforms-3\3fceaeaa6fd33b291315419086ca5dad\transformed\androidx.core.core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\ca2fbaeaa010157532796ae2e5b0863a\transformed\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\2abb8773c6d00f77f1bef9482f53d2c5\transformed\androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\f1edf6e89a4764e0cd47f509ec60abba\transformed\androidx.print.print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\77811248088f2d43864fe55b98aa287c\transformed\androidx.startup.startup-runtime-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.ump.user-messaging-platform-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\f7c30c367ce506adbd9e733cfd07b233\transformed\com.google.android.ump.user-messaging-platform-2.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:16:1-24:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\71adcae7125dbc7ba6d4fcf063061896\transformed\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\2e9d248870742e1cf567e95d5ea38713\transformed\com.google.android.gms.play-services-measurement-base-20.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\a505e16fb99ec69e30000a4393e47f22\transformed\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\047b49aca954a8068400bfd17ea4f9a5\transformed\androidx.lifecycle.lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\82ce123ccc2811252c2032bb09aed8a7\transformed\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\08cffaad110661a95c6f1f8e9d2905d8\transformed\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.sqlite.sqlite-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\3539ae9feab759306a0f2e285a0a49e3\transformed\androidx.sqlite.sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.sqlite.sqlite-framework-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\0a0be8e652f22cc14ca080cd16a7a742\transformed\androidx.sqlite.sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:70-107
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:108-154
+	android:versionCode
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:155-195
+application
+ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:5-66:19
+MERGED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:5-66:19
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.1:] C:\Users\Asus\.gradle\caches\transforms-3\02a4756198d7e3dd02df66539b73aa7f\transformed\com.google.android.gms.play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.1:] C:\Users\Asus\.gradle\caches\transforms-3\02a4756198d7e3dd02df66539b73aa7f\transformed\com.google.android.gms.play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] C:\Users\Asus\.gradle\caches\transforms-3\d4bebd9aa71640e0c507d10c5c242109\transformed\androidx.versionedparcelable.versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] C:\Users\Asus\.gradle\caches\transforms-3\d4bebd9aa71640e0c507d10c5c242109\transformed\androidx.versionedparcelable.versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:23:3-71:17
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:23:3-71:17
+MERGED from [:com.google.android.gms.play-services-ads-base-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\d832f0f3923b1bb5984746307f16d23a\transformed\com.google.android.gms.play-services-ads-base-22.3.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-base-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\d832f0f3923b1bb5984746307f16d23a\transformed\com.google.android.gms.play-services-ads-base-22.3.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-appset-16.0.1:] C:\Users\Asus\.gradle\caches\transforms-3\2fe21e5b14992f47cbfd2b2e200cea24\transformed\com.google.android.gms.play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-appset-16.0.1:] C:\Users\Asus\.gradle\caches\transforms-3\2fe21e5b14992f47cbfd2b2e200cea24\transformed\com.google.android.gms.play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\850a7a0cbd1d64015ab09966dca93a3b\transformed\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\850a7a0cbd1d64015ab09966dca93a3b\transformed\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:39:3-45:17
+MERGED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:39:3-45:17
+MERGED from [:androidx.core.core-1.6.0:] C:\Users\Asus\.gradle\caches\transforms-3\3fceaeaa6fd33b291315419086ca5dad\transformed\androidx.core.core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [:androidx.core.core-1.6.0:] C:\Users\Asus\.gradle\caches\transforms-3\3fceaeaa6fd33b291315419086ca5dad\transformed\androidx.core.core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\77811248088f2d43864fe55b98aa287c\transformed\androidx.startup.startup-runtime-1.0.0\AndroidManifest.xml:19:3-21:17
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\77811248088f2d43864fe55b98aa287c\transformed\androidx.startup.startup-runtime-1.0.0\AndroidManifest.xml:19:3-21:17
+MERGED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\2e9d248870742e1cf567e95d5ea38713\transformed\com.google.android.gms.play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\2e9d248870742e1cf567e95d5ea38713\transformed\com.google.android.gms.play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-22:19
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-22:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:18-50
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.6.0:] C:\Users\Asus\.gradle\caches\transforms-3\3fceaeaa6fd33b291315419086ca5dad\transformed\androidx.core.core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+	android:icon
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+supports-screens
+ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+uses-sdk
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.1:] C:\Users\Asus\.gradle\caches\transforms-3\02a4756198d7e3dd02df66539b73aa7f\transformed\com.google.android.gms.play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.1:] C:\Users\Asus\.gradle\caches\transforms-3\02a4756198d7e3dd02df66539b73aa7f\transformed\com.google.android.gms.play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\c4173130f95781b51f934d6deba78646\transformed\androidx.lifecycle.lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\c4173130f95781b51f934d6deba78646\transformed\androidx.lifecycle.lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] C:\Users\Asus\.gradle\caches\transforms-3\d4bebd9aa71640e0c507d10c5c242109\transformed\androidx.versionedparcelable.versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] C:\Users\Asus\.gradle\caches\transforms-3\d4bebd9aa71640e0c507d10c5c242109\transformed\androidx.versionedparcelable.versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\1a1b31046a5b849bc9d97952fb73c469\transformed\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\1a1b31046a5b849bc9d97952fb73c469\transformed\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\ecb34956e8a0e7004d3b49d2f0ee7269\transformed\androidx.fragment.fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\ecb34956e8a0e7004d3b49d2f0ee7269\transformed\androidx.fragment.fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b50b0539995c0493db3e244c2b46883e\transformed\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b50b0539995c0493db3e244c2b46883e\transformed\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-service-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\20d49b9cdc2d0288da46aa8c416007b3\transformed\androidx.lifecycle.lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-service-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\20d49b9cdc2d0288da46aa8c416007b3\transformed\androidx.lifecycle.lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:18:3-72
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:18:3-72
+MERGED from [:com.google.android.gms.play-services-ads-base-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\d832f0f3923b1bb5984746307f16d23a\transformed\com.google.android.gms.play-services-ads-base-22.3.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-base-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\d832f0f3923b1bb5984746307f16d23a\transformed\com.google.android.gms.play-services-ads-base-22.3.0\AndroidManifest.xml:5:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\c156797fd539de38c34d80dc52651962\transformed\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\c156797fd539de38c34d80dc52651962\transformed\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-appset-16.0.1:] C:\Users\Asus\.gradle\caches\transforms-3\2fe21e5b14992f47cbfd2b2e200cea24\transformed\com.google.android.gms.play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-appset-16.0.1:] C:\Users\Asus\.gradle\caches\transforms-3\2fe21e5b14992f47cbfd2b2e200cea24\transformed\com.google.android.gms.play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\52e6ecf2a6cc4dcc6215f49277b1a175\transformed\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\52e6ecf2a6cc4dcc6215f49277b1a175\transformed\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\2d52abcb00febcbea3320721f30136d8\transformed\androidx.arch.core.core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\2d52abcb00febcbea3320721f30136d8\transformed\androidx.arch.core.core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.browser.browser-1.4.0:] C:\Users\Asus\.gradle\caches\transforms-3\1892b81381470a98b6b69992b2df2ef2\transformed\androidx.browser.browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.browser.browser-1.4.0:] C:\Users\Asus\.gradle\caches\transforms-3\1892b81381470a98b6b69992b2df2ef2\transformed\androidx.browser.browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.tracing.tracing-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\ec80ec70e69005ca764be62648b341bd\transformed\androidx.tracing.tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.tracing.tracing-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\ec80ec70e69005ca764be62648b341bd\transformed\androidx.tracing.tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\5ad5b000b0a1195f11fc08b6f9479d5b\transformed\androidx.loader.loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\5ad5b000b0a1195f11fc08b6f9479d5b\transformed\androidx.loader.loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\4a9a823681c1b055e0a89bfe9ef4702b\transformed\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\4a9a823681c1b055e0a89bfe9ef4702b\transformed\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.annotation.annotation-experimental-1.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\bfbefb7139a37168f4883e18d2230389\transformed\androidx.annotation.annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.annotation.annotation-experimental-1.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\bfbefb7139a37168f4883e18d2230389\transformed\androidx.annotation.annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\e9344c4b9ac30a31b49a43865097aea4\transformed\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\e9344c4b9ac30a31b49a43865097aea4\transformed\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\cc88c5bb393326f9640e49cde21086e1\transformed\androidx.customview.customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\cc88c5bb393326f9640e49cde21086e1\transformed\androidx.customview.customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\7d0f02d9b471414e121c686f2467c3d0\transformed\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\7d0f02d9b471414e121c686f2467c3d0\transformed\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\7f05f53597f3af9df8f5afcf6631ee35\transformed\androidx.lifecycle.lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\7f05f53597f3af9df8f5afcf6631ee35\transformed\androidx.lifecycle.lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\850a7a0cbd1d64015ab09966dca93a3b\transformed\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\850a7a0cbd1d64015ab09966dca93a3b\transformed\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\7a69600a47d43dfabd6a73ff807d4768\transformed\com.google.android.gms.play-services-ads-22.3.0\AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\7a69600a47d43dfabd6a73ff807d4768\transformed\com.google.android.gms.play-services-ads-22.3.0\AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:18:3-42
+MERGED from [:googlemobileads-unity:] C:\Users\Asus\.gradle\caches\transforms-3\a50178cda22edc487eaaa1b43e3a0429\transformed\googlemobileads-unity\AndroidManifest.xml:10:5-44
+MERGED from [:googlemobileads-unity:] C:\Users\Asus\.gradle\caches\transforms-3\a50178cda22edc487eaaa1b43e3a0429\transformed\googlemobileads-unity\AndroidManifest.xml:10:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.6.0:] C:\Users\Asus\.gradle\caches\transforms-3\3fceaeaa6fd33b291315419086ca5dad\transformed\androidx.core.core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.6.0:] C:\Users\Asus\.gradle\caches\transforms-3\3fceaeaa6fd33b291315419086ca5dad\transformed\androidx.core.core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\ca2fbaeaa010157532796ae2e5b0863a\transformed\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\ca2fbaeaa010157532796ae2e5b0863a\transformed\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\2abb8773c6d00f77f1bef9482f53d2c5\transformed\androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\2abb8773c6d00f77f1bef9482f53d2c5\transformed\androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\f1edf6e89a4764e0cd47f509ec60abba\transformed\androidx.print.print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\f1edf6e89a4764e0cd47f509ec60abba\transformed\androidx.print.print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\77811248088f2d43864fe55b98aa287c\transformed\androidx.startup.startup-runtime-1.0.0\AndroidManifest.xml:18:3-72
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\77811248088f2d43864fe55b98aa287c\transformed\androidx.startup.startup-runtime-1.0.0\AndroidManifest.xml:18:3-72
+MERGED from [:com.google.android.ump.user-messaging-platform-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\f7c30c367ce506adbd9e733cfd07b233\transformed\com.google.android.ump.user-messaging-platform-2.1.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.ump.user-messaging-platform-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\f7c30c367ce506adbd9e733cfd07b233\transformed\com.google.android.ump.user-messaging-platform-2.1.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\71adcae7125dbc7ba6d4fcf063061896\transformed\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\71adcae7125dbc7ba6d4fcf063061896\transformed\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\2e9d248870742e1cf567e95d5ea38713\transformed\com.google.android.gms.play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\2e9d248870742e1cf567e95d5ea38713\transformed\com.google.android.gms.play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\a505e16fb99ec69e30000a4393e47f22\transformed\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\a505e16fb99ec69e30000a4393e47f22\transformed\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\047b49aca954a8068400bfd17ea4f9a5\transformed\androidx.lifecycle.lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\047b49aca954a8068400bfd17ea4f9a5\transformed\androidx.lifecycle.lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\82ce123ccc2811252c2032bb09aed8a7\transformed\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\82ce123ccc2811252c2032bb09aed8a7\transformed\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\08cffaad110661a95c6f1f8e9d2905d8\transformed\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\08cffaad110661a95c6f1f8e9d2905d8\transformed\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\3539ae9feab759306a0f2e285a0a49e3\transformed\androidx.sqlite.sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.sqlite.sqlite-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\3539ae9feab759306a0f2e285a0a49e3\transformed\androidx.sqlite.sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.sqlite.sqlite-framework-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\0a0be8e652f22cc14ca080cd16a7a742\transformed\androidx.sqlite.sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.sqlite.sqlite-framework-2.1.0:] C:\Users\Asus\.gradle\caches\transforms-3\0a0be8e652f22cc14ca080cd16a7a742\transformed\androidx.sqlite.sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.google.android.gms.play-services-ads-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\7a69600a47d43dfabd6a73ff807d4768\transformed\com.google.android.gms.play-services-ads-22.3.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-72
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-27:33
+	android:value
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-30:36
+	android:value
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33:36
+	android:value
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:37
+	android:value
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-34
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:50
+	android:value
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-47
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:36
+	android:value
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-57
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:9-65:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-53
+	android:launchMode
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-48
+	android:exported
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-194
+	android:theme
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-57:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:25-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-61:40
+	android:value
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:17-57
+meta-data#notch_support
+ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:13-64:40
+	android:value
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:17-45
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:19:3-66
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:19:20-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:20:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:20:20-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:21:3-79
+REJECTED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:23:3-99
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:21:20-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:22:3-75
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:22:20-72
+provider#androidx.startup.InitializationProvider
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:5-26:16
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\77811248088f2d43864fe55b98aa287c\transformed\androidx.startup.startup-runtime-1.0.0\AndroidManifest.xml:20:5-183
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\77811248088f2d43864fe55b98aa287c\transformed\androidx.startup.startup-runtime-1.0.0\AndroidManifest.xml:20:5-183
+	tools:node
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:162-180
+	android:authorities
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:70-136
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:137-161
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:15-69
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:7-105
+	android:value
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:70-102
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:18-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:5-229
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:122-181
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:182-206
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:207-226
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:90-121
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:14-89
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:5-279
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:118-175
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:176-199
+	android:permission
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:200-256
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:257-276
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:86-117
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:14-85
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:5-227
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:115-179
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:180-204
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:205-224
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:83-114
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:14-82
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:5-193
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:123-145
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:146-170
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:171-190
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:91-122
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:15-90
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:5-36:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:141-164
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:165-189
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:190-209
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:109-140
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:15-108
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:32:7-35:23
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:33:9-79
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:33:17-76
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:34:9-82
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:34:17-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:5-42:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:139-162
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:163-187
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:188-207
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:107-138
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:15-106
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:38:7-41:23
+action#android.intent.action.BATTERY_OKAY
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:39:9-69
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:39:17-66
+action#android.intent.action.BATTERY_LOW
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:40:9-68
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:40:17-65
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:5-48:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:139-162
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:163-187
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:188-207
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:107-138
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:15-106
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:44:7-47:23
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:45:9-75
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:45:17-72
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:46:9-74
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:46:17-71
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:5-53:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:138-161
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:162-186
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:187-206
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:106-137
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:15-105
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:50:7-52:23
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:51:9-71
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:51:17-68
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:5-60:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:123-146
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:147-171
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:172-191
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:91-122
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:15-90
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:55:7-59:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:56:9-71
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:56:17-68
+action#android.intent.action.TIME_SET
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:57:9-65
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:57:17-62
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:58:9-73
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:58:17-70
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:5-65:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:134-193
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:194-218
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:219-238
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:102-133
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:15-101
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:62:7-64:23
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:63:9-90
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:63:17-87
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:5-70:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:113-135
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:136-159
+	android:permission
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:160-204
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:205-224
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:81-112
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:15-80
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:67:7-69:23
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:68:9-80
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:68:17-77
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\850a7a0cbd1d64015ab09966dca93a3b\transformed\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:22:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:22:3-77
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\850a7a0cbd1d64015ab09966dca93a3b\transformed\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:20:3-65
+MERGED from [:googlemobileads-unity:] C:\Users\Asus\.gradle\caches\transforms-3\a50178cda22edc487eaaa1b43e3a0429\transformed\googlemobileads-unity\AndroidManifest.xml:12:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\Asus\.gradle\caches\transforms-3\a50178cda22edc487eaaa1b43e3a0429\transformed\googlemobileads-unity\AndroidManifest.xml:12:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\Asus\.gradle\caches\transforms-3\9e7cf57ed5e5178541312066e0a211c0\transformed\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:20:20-62
+queries
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:25:3-38:13
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:27:5-31:14
+action#android.intent.action.VIEW
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:28:7-59
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:28:15-56
+category#android.intent.category.BROWSABLE
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:29:7-68
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:29:17-65
+data
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:30:7-38
+	android:scheme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:30:13-35
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:34:5-36:14
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:35:7-84
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:35:15-81
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:5-282
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:178-202
+	tools:ignore
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:252-279
+	android:configChanges
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:68-177
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:203-251
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:15-67
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:5-230
+	android:authorities
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:79-150
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:151-175
+	tools:ignore
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:200-227
+	android:initOrder
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:176-199
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:15-78
+service#com.google.android.gms.ads.AdService
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:43:5-144
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:43:66-88
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:43:89-113
+	tools:ignore
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:43:114-141
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:43:14-65
+activity#com.google.android.gms.ads.OutOfContextTestingActivity
+ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:44:5-250
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:44:195-219
+	tools:ignore
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:44:220-247
+	android:configChanges
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:44:85-194
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:44:15-84
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+uses-library#org.apache.http.legacy
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-14:40
+	android:required
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-50
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-18:70
+	android:value
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-67
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-69
+meta-data#com.google.unity.ads.UNITY_VERSION
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-21:42
+	android:value
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-39
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-62

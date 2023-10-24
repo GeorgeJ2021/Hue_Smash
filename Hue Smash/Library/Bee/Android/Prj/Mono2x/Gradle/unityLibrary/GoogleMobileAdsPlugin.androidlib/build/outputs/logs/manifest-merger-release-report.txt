@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:2:70-100
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:2:101-126
+	xmlns:android
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:2:127-150
+application
+ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:3:3-7:17
+uses-library#org.apache.http.legacy
+ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:4:5-84
+	android:required
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:4:19-43
+	android:name
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:4:44-81
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:5:5-130
+	android:value
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:5:73-127
+	android:name
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:5:16-72
+meta-data#com.google.unity.ads.UNITY_VERSION
+ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:6:5-95
+	android:value
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:6:66-92
+	android:name
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:6:16-65
+uses-sdk
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+		ADDED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+		INJECTED from D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml

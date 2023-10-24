@@ -1,0 +1,472 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.HueSmash"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-54
+19-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:19-51
+20    <uses-feature
+20-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-55
+22        android:required="false" />
+22-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-33
+23    <uses-feature
+23-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+24        android:name="android.hardware.touchscreen"
+24-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-52
+25        android:required="false" />
+25-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+26    <uses-feature
+26-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-19:36
+27        android:name="android.hardware.touchscreen.multitouch"
+27-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-63
+28        android:required="false" />
+28-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-33
+29    <uses-feature
+29-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:5-22:36
+30        android:name="android.hardware.touchscreen.multitouch.distinct"
+30-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-72
+31        android:required="false" />
+31-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-33
+32
+33    <uses-permission android:name="android.permission.WAKE_LOCK" />
+33-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:19:3-66
+33-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:19:20-63
+34    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+34-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:20:3-77
+34-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:20:20-74
+35    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+35-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:21:3-79
+35-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:21:20-76
+36    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- Include required permissions for Advertising Id -->
+36-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:22:3-75
+36-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:22:20-72
+37    <uses-permission android:name="com.google.android.gms.permission.AD_ID" /> <!-- Include required permissions for Google Mobile Ads to run -->
+37-->[:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\850a7a0cbd1d64015ab09966dca93a3b\transformed\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+37-->[:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\850a7a0cbd1d64015ab09966dca93a3b\transformed\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:22-76
+38    <uses-permission android:name="android.permission.INTERNET" /> <!-- Android package visibility setting -->
+38-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:20:3-65
+38-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:20:20-62
+39    <queries>
+39-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:25:3-38:13
+40
+41        <!-- For browser content -->
+42        <intent>
+42-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:27:5-31:14
+43            <action android:name="android.intent.action.VIEW" />
+43-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:28:7-59
+43-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:28:15-56
+44
+45            <category android:name="android.intent.category.BROWSABLE" />
+45-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:29:7-68
+45-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:29:17-65
+46
+47            <data android:scheme="https" />
+47-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:30:7-38
+47-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:30:13-35
+48        </intent>
+49        <!-- End of browser content -->
+50        <!-- For CustomTabsService -->
+51        <intent>
+51-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:34:5-36:14
+52            <action android:name="android.support.customtabs.action.CustomTabsService" />
+52-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:35:7-84
+52-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:35:15-81
+53        </intent>
+54        <!-- End of CustomTabsService -->
+55    </queries>
+56
+57    <application
+57-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+58        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+58-->[:androidx.core.core-1.6.0:] C:\Users\Asus\.gradle\caches\transforms-3\3fceaeaa6fd33b291315419086ca5dad\transformed\androidx.core.core-1.6.0\AndroidManifest.xml:24:18-86
+59        android:extractNativeLibs="true"
+59-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:18-50
+60        android:icon="@mipmap/app_icon"
+60-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+61        android:label="@string/app_name" >
+61-->D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+62        <meta-data
+62-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-27:33
+63            android:name="unity.splash-mode"
+63-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-45
+64            android:value="0" />
+64-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-30
+65        <meta-data
+65-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-30:36
+66            android:name="unity.splash-enable"
+66-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-47
+67            android:value="True" />
+67-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-33
+68        <meta-data
+68-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33:36
+69            android:name="unity.launch-fullscreen"
+69-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-51
+70            android:value="True" />
+70-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-33
+71        <meta-data
+71-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:37
+72            android:name="unity.allow-resizable-window"
+72-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-56
+73            android:value="False" />
+73-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-34
+74        <meta-data
+74-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:50
+75            android:name="notch.config"
+75-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-40
+76            android:value="portrait|landscape" />
+76-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-47
+77        <meta-data
+77-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:36
+78            android:name="unity.auto-report-fully-drawn"
+78-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-57
+79            android:value="true" />
+79-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-33
+80
+81        <activity
+81-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:9-65:20
+82            android:name="com.unity3d.player.UnityPlayerActivity"
+82-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-66
+83            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+83-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-194
+84            android:exported="true"
+84-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-36
+85            android:hardwareAccelerated="false"
+85-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-48
+86            android:launchMode="singleTask"
+86-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-44
+87            android:resizeableActivity="false"
+87-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-47
+88            android:screenOrientation="userPortrait"
+88-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-53
+89            android:theme="@style/UnityThemeSelector" >
+89-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-54
+90            <intent-filter>
+90-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-57:29
+91                <category android:name="android.intent.category.LAUNCHER" />
+91-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:17-77
+91-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:27-74
+92
+93                <action android:name="android.intent.action.MAIN" />
+93-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:17-69
+93-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:25-66
+94            </intent-filter>
+95
+96            <meta-data
+96-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-61:40
+97                android:name="unityplayer.UnityActivity"
+97-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:17-57
+98                android:value="true" />
+98-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:17-37
+99            <meta-data
+99-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:13-64:40
+100                android:name="notch_support"
+100-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:17-45
+101                android:value="true" />
+101-->[:unityLibrary] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:17-37
+102        </activity>
+103
+104        <service
+104-->[:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+105            android:name="androidx.room.MultiInstanceInvalidationService"
+105-->[:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+106            android:directBootAware="true"
+106-->[:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+107            android:exported="false" />
+107-->[:androidx.room.room-runtime-2.2.5:] C:\Users\Asus\.gradle\caches\transforms-3\0231977d30277b286d7ecb0742e685a1\transformed\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+108
+109        <provider
+109-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:5-26:16
+110            android:name="androidx.startup.InitializationProvider"
+110-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:15-69
+111            android:authorities="com.DefaultCompany.HueSmash.androidx-startup"
+111-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:70-136
+112            android:exported="false" >
+112-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:137-161
+113            <meta-data
+113-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:7-105
+114                android:name="androidx.work.WorkManagerInitializer"
+114-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:18-69
+115                android:value="androidx.startup" />
+115-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:70-102
+116        </provider>
+117
+118        <service
+118-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:5-229
+119            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+119-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:14-89
+120            android:directBootAware="false"
+120-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:90-121
+121            android:enabled="@bool/enable_system_alarm_service_default"
+121-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:122-181
+122            android:exported="false" />
+122-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:182-206
+123        <service
+123-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:5-279
+124            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+124-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:14-85
+125            android:directBootAware="false"
+125-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:86-117
+126            android:enabled="@bool/enable_system_job_service_default"
+126-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:118-175
+127            android:exported="true"
+127-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:176-199
+128            android:permission="android.permission.BIND_JOB_SERVICE" />
+128-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:200-256
+129        <service
+129-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:5-227
+130            android:name="androidx.work.impl.foreground.SystemForegroundService"
+130-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:14-82
+131            android:directBootAware="false"
+131-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:83-114
+132            android:enabled="@bool/enable_system_foreground_service_default"
+132-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:115-179
+133            android:exported="false" />
+133-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:180-204
+134
+135        <receiver
+135-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:5-193
+136            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+136-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:15-90
+137            android:directBootAware="false"
+137-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:91-122
+138            android:enabled="true"
+138-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:123-145
+139            android:exported="false" />
+139-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:146-170
+140        <receiver
+140-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:5-36:16
+141            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+141-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:15-108
+142            android:directBootAware="false"
+142-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:109-140
+143            android:enabled="false"
+143-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:141-164
+144            android:exported="false" >
+144-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:165-189
+145            <intent-filter>
+145-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:32:7-35:23
+146                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+146-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:33:9-79
+146-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:33:17-76
+147                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+147-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:34:9-82
+147-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:34:17-79
+148            </intent-filter>
+149        </receiver>
+150        <receiver
+150-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:5-42:16
+151            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+151-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:15-106
+152            android:directBootAware="false"
+152-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:107-138
+153            android:enabled="false"
+153-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:139-162
+154            android:exported="false" >
+154-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:163-187
+155            <intent-filter>
+155-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:38:7-41:23
+156                <action android:name="android.intent.action.BATTERY_OKAY" />
+156-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:39:9-69
+156-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:39:17-66
+157                <action android:name="android.intent.action.BATTERY_LOW" />
+157-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:40:9-68
+157-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:40:17-65
+158            </intent-filter>
+159        </receiver>
+160        <receiver
+160-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:5-48:16
+161            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+161-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:15-106
+162            android:directBootAware="false"
+162-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:107-138
+163            android:enabled="false"
+163-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:139-162
+164            android:exported="false" >
+164-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:163-187
+165            <intent-filter>
+165-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:44:7-47:23
+166                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+166-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:45:9-75
+166-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:45:17-72
+167                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+167-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:46:9-74
+167-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:46:17-71
+168            </intent-filter>
+169        </receiver>
+170        <receiver
+170-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:5-53:16
+171            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+171-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:15-105
+172            android:directBootAware="false"
+172-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:106-137
+173            android:enabled="false"
+173-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:138-161
+174            android:exported="false" >
+174-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:162-186
+175            <intent-filter>
+175-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:50:7-52:23
+176                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+176-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:51:9-71
+176-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:51:17-68
+177            </intent-filter>
+178        </receiver>
+179        <receiver
+179-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:5-60:16
+180            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+180-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:15-90
+181            android:directBootAware="false"
+181-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:91-122
+182            android:enabled="false"
+182-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:123-146
+183            android:exported="false" >
+183-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:147-171
+184            <intent-filter>
+184-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:55:7-59:23
+185                <action android:name="android.intent.action.BOOT_COMPLETED" />
+185-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:56:9-71
+185-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:56:17-68
+186                <action android:name="android.intent.action.TIME_SET" />
+186-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:57:9-65
+186-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:57:17-62
+187                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+187-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:58:9-73
+187-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:58:17-70
+188            </intent-filter>
+189        </receiver>
+190        <receiver
+190-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:5-65:16
+191            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+191-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:15-101
+192            android:directBootAware="false"
+192-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:102-133
+193            android:enabled="@bool/enable_system_alarm_service_default"
+193-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:134-193
+194            android:exported="false" >
+194-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:194-218
+195            <intent-filter>
+195-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:62:7-64:23
+196                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+196-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:63:9-90
+196-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:63:17-87
+197            </intent-filter>
+198        </receiver>
+199        <receiver
+199-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:5-70:16
+200            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+200-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:15-80
+201            android:directBootAware="false"
+201-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:81-112
+202            android:enabled="true"
+202-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:113-135
+203            android:exported="true"
+203-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:136-159
+204            android:permission="android.permission.DUMP" >
+204-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:160-204
+205            <intent-filter>
+205-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:67:7-69:23
+206                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+206-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:68:9-80
+206-->[:androidx.work.work-runtime-2.7.0:] C:\Users\Asus\.gradle\caches\transforms-3\092a888b06270d7aa46291eab34624d1\transformed\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:68:17-77
+207            </intent-filter>
+208        </receiver> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+209        <activity
+209-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:5-282
+210            android:name="com.google.android.gms.ads.AdActivity"
+210-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:15-67
+211            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+211-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:68-177
+212            android:exported="false"
+212-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:178-202
+213            android:theme="@android:style/Theme.Translucent" />
+213-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:41:203-251
+214
+215        <provider
+215-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:5-230
+216            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+216-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:15-78
+217            android:authorities="com.DefaultCompany.HueSmash.mobileadsinitprovider"
+217-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:79-150
+218            android:exported="false"
+218-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:151-175
+219            android:initOrder="100" />
+219-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:42:176-199
+220
+221        <service
+221-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:43:5-144
+222            android:name="com.google.android.gms.ads.AdService"
+222-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:43:14-65
+223            android:enabled="true"
+223-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:43:66-88
+224            android:exported="false" />
+224-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:43:89-113
+225
+226        <activity
+226-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:44:5-250
+227            android:name="com.google.android.gms.ads.OutOfContextTestingActivity"
+227-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:44:15-84
+228            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+228-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:44:85-194
+229            android:exported="false" />
+229-->[:com.google.android.gms.play-services-ads-lite-22.3.0:] C:\Users\Asus\.gradle\caches\transforms-3\a9f7109e16021579435d47abc762f0cd\transformed\com.google.android.gms.play-services-ads-lite-22.3.0\AndroidManifest.xml:44:195-219
+230        <activity
+230-->[:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
+231            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+231-->[:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:20:19-85
+232            android:exported="false"
+232-->[:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:22:19-43
+233            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+233-->[:com.google.android.gms.play-services-base-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\47ce9f33f4743da585d2056fca746967\transformed\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:21:19-78
+234
+235        <meta-data
+235-->[:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+236            android:name="com.google.android.gms.version"
+236-->[:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+237            android:value="@integer/google_play_services_version" />
+237-->[:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\Asus\.gradle\caches\transforms-3\b38d206231690b9fd5bdd2ab38fe7cd3\transformed\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+238
+239        <uses-library
+239-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-14:40
+240            android:name="org.apache.http.legacy"
+240-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-50
+241            android:required="false" />
+241-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-37
+242
+243        <meta-data
+243-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-18:70
+244            android:name="com.google.android.gms.ads.APPLICATION_ID"
+244-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-69
+245            android:value="ca-app-pub-6964407577083513~6349129425" />
+245-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-67
+246        <meta-data
+246-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-21:42
+247            android:name="com.google.unity.ads.UNITY_VERSION"
+247-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-62
+248            android:value="2022.3.5f1" />
+248-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] D:\Unity project\Hue Smash\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-39
+249    </application>
+250
+251</manifest>
