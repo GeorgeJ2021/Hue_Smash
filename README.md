@@ -1,4 +1,4 @@
-# Hue_Smash
+# Hue Smash
 A relaxing casual mobile game
 
 It is a straightforward game where players can control a ball by dragging it across the screen. The ball can collide and push any obstacle in its path as long as the object is the same color(or in this case, HUE) as the ball. This is a small fun mobile game inspired by another mobile game, "Color Bump".
